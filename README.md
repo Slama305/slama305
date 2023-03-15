@@ -1,6 +1,6 @@
 <h1 align="center" color="red">Hi , I'm Mohamed Slama  👋</h1>
 <p align="center">
-<img sre="https://png.pngtree.com/png-clipart/20210311/original/pngtree-illustration-of-a-programmer-at-work-png-image_6006377.jpg" alt="HHHHH" ></p>
+<img sre="https://png.pngtree.com/png-clipart/20190619/original/pngtree-blue-computer-programmer-element-design-png-image_3984545.jpg" alt="HHHHH" ></p>
 <h3 align="center">Computer Science Student</h3>
 
 - 🌱 I’m currently learning **Computer Science**
