@@ -1,6 +1,6 @@
 <h1 align="center" color="red">Hi , I'm Mohamed Slama  👋</h1>
 <p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></p>
+<img src="https://png.pngtree.com/png-clipart/20190619/original/pngtree-blue-computer-programmer-element-design-png-image_3984545.jpg" alt="python" width="40" height="40"/></p>
 <h3 align="center">Computer Science Student</h3>
 
 - 🌱 I’m currently learning **Computer Science**
