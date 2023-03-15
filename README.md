@@ -1,4 +1,4 @@
-<h1 align="center" color="red">Hi , I'm Mohamed Slama  👋</h1>
+<h1 align="center" style="color:red">Hi , I'm Mohamed Slama  👋</h1>
 <p align="center">
 <img src="https://png.pngtree.com/png-clipart/20190619/original/pngtree-blue-computer-programmer-element-design-png-image_3984545.jpg" alt="programmer" width="400" height="400"/></p>
 <h3 align="center">Computer Science Student</h3>
