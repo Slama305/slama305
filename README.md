@@ -1,6 +1,6 @@
 <h1 align="center" color="red">Hi , I'm Mohamed Slama  👋</h1>
 <p align="center">
-<img sre="https://png.pngtree.com/png-clipart/20190619/original/pngtree-blue-computer-programmer-element-design-png-image_3984545.jpg" alt="HHHHH" ></p>
+<img sre="https://www.google.com/url?sa=i&url=https%3A%2F%2Far.pngtree.com%2Fso%2F%25D9%2585%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC&psig=AOvVaw3QQnt38ppzzQTew4NpPcIq&ust=1678952349392000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCOiY3pm33f0CFQAAAAAdAAAAABAh" alt="HHHHH" ></p>
 <h3 align="center">Computer Science Student</h3>
 
 - 🌱 I’m currently learning **Computer Science**
