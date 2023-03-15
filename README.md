@@ -2,7 +2,7 @@
 <h1 align="center"  >Hi , I'm Mohamed Slama  👋</h1>
   
 <p align="center">
-<img src="https://phoneky.co.uk/thumbs/screensavers/down/movies/matrix_b9c9kcqf.gif" alt="programmer" width="1200" height="5000"/></p>
+<img src="https://phoneky.co.uk/thumbs/screensavers/down/movies/matrix_b9c9kcqf.gif" alt="programmer" width="3000" height="5000"/></p>
   <hr>
   <br>
 <h3 align="center" style="color:green;">Computer Science Student</h3>
