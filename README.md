@@ -1,5 +1,8 @@
 <body background="https://i.pinimg.com/originals/35/02/20/3502204955c989f269c042738539214d.gif">
-<h1 align="center"  >Hi , I'm Mohamed Slama  👋</h1>
+  <p align="center">
+ <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+ <h2 align="center">Hi , I'm Mohamed Slama  👋</h2>
+ 
   
 <p align="center">
 <img src="https://phoneky.co.uk/thumbs/screensavers/down/movies/matrix_b9c9kcqf.gif" alt="programmer" width="6000" height="20000"/></p>
