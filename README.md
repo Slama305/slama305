@@ -8,8 +8,9 @@
 <img src="https://phoneky.co.uk/thumbs/screensavers/down/movies/matrix_b9c9kcqf.gif" alt="programmer" width="6000" height="20000"/></p>
   <hr>
   <br>
-<h3 align="center" style="color:green;">Computer Science Student</h3>
-  <hr>
+<img src="https://github.com/Slama305/slama305/blob/main/78fdd4d7-2422-4897-b386-7ae0769def4a.gif"/></p>
+ 
+ <hr>
   
 - 🌱 I’m currently learning **Computer Science**
 
