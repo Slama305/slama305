@@ -5,7 +5,7 @@
  <hr>
   
 <p align="center">
-<img src="https://phoneky.co.uk/thumbs/screensavers/down/movies/matrix_b9c9kcqf.gif" alt="programmer" width="6000" height="20000"/></p>
+<img src="https://phoneky.co.uk/thumbs/screensavers/down/movies/matrix_b9c9kcqf.gif" alt="programmer" width="28000" height="20000"/></p>
   <hr>
   <br>
 <img src="https://github.com/Slama305/slama305/blob/main/5c3a5a33-5c96-46e0-b732-beeeb1b7c886.gif"/></p>
