@@ -2,7 +2,7 @@
   <p align="center">
  <img width="100px" src="https://e7.pngegg.com/pngimages/932/659/png-clipart-programmer-computer-programming-computer-training-computer-computer-programming.png" align="center" alt="GitHub Readme Stats" /><br>
  <img  src="https://github.com/Slama305/slama305/blob/main/2342ede6-c0ad-445c-80d5-f059c96d628e.gif" align="center" alt="GitHub Readme Stats" />
- 
+ <hr>
   
 <p align="center">
 <img src="https://phoneky.co.uk/thumbs/screensavers/down/movies/matrix_b9c9kcqf.gif" alt="programmer" width="6000" height="20000"/></p>
