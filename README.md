@@ -4,7 +4,7 @@
  <hr>
   
 <p align="center">
-<img src="https://phoneky.co.uk/thumbs/screensavers/down/movies/matrix_b9c9kcqf.gif" alt="programmer" width="28000" height="20000"/></p>
+<img src="https://img.freepik.com/premium-vector/illustration-programmer-working-his-desk_23-2148270201.jpg?w=2000" alt="programmer" /></p>
   <hr>
   <br>
  <p align="center">
@@ -31,5 +31,5 @@
 </body><hr>
 <br>
 <p align="center">
- <img  src="https://github.com/Slama305/slama305/blob/main/11XxC0wD3jVSCI.gif" align="center" alt="GitHub Readme Stats" />
+ <img  src="https://github.com/Slama305/slama305/blob/main/11XxC0wD3jVSCI.gif" align="center" alt="GitHub Readme Stats"  height="400" width="100%"/>
  
