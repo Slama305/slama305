@@ -30,6 +30,43 @@
 <p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="80" height="80"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="80" height="80"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="80" height="80"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"/> </a> </p>
 </body><hr>
 <br>
+
+#
+
+Stats
+<div>
+<details><summary><h3>Streak Stats</h3></summary>
+
+----	
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=slama305&theme=tokyonight_duo" alt="mo" /></p>
+
+</details>
+  
+<details><summary><h3>GitHub Profile Stats</h3></summary>
+
+----
+	
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+	    <img alt="slama305's Github Stats" src="https://github-readme-stats.vercel.app/api?username=slama305&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=slama305&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="slama" height="230px"/>
+<br/>
+
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+</details>
+
+<details><summary><h3>Recent GitHub Activity</h3></summary>
+
+----
+	
+[![slama305's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=slama305&theme=github	)](https://github.com/slama305/github-readme-activity-graph)
+  
+  </div>
+<br>
+
+
 <p align="center">
  <img  src="https://github.com/Slama305/slama305/blob/main/11XxC0wD3jVSCI.gif" align="center" alt="GitHub Readme Stats"  height="400" width="100%"/>
  
