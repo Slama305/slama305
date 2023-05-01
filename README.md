@@ -64,9 +64,9 @@ Stats
 [![slama305's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=slama305&theme=github	)](https://github.com/slama305/github-readme-activity-graph)
   
   </div>
-<br>
-
-
-<p align="center">
- <img  src="https://github.com/Slama305/slama305/blob/main/11XxC0wD3jVSCI.gif" align="center" alt="GitHub Readme Stats"  height="400" width="100%"/>
+	<hr>
+	<p align="center">
+  <img  src="https://phoneky.co.uk/thumbs/screensavers/down/cartoon-anime/games_1knqbmwn.gif" align="center" alt="GitHub Readme Stats" />
  
+ 
+	
