@@ -1,4 +1,4 @@
-<body background="https://i.pinimg.com/originals/35/02/20/3502204955c989f269c042738539214d.gif">
+<body>
   <p align="center">
   <img  src="https://github.com/Slama305/slama305/blob/main/2342ede6-c0ad-445c-80d5-f059c96d628e.gif" align="center" alt="GitHub Readme Stats" />
  <hr>
@@ -20,9 +20,9 @@
 <hr><br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-a-slama-012811258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-a-slama-012811258" height="90" width="100" /></a>
-<a href="https://fb.com/https://www.facebook.com/mo.a.s.m.305?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mo.a.s.m.305?mibextid=zbwkwl" height="90" width="100" /></a>
-<a href="https://instagram.com/https://instagram.com/mo_3.0.5?igshid=zddkntzintm=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/mo_3.0.5?igshid=zddkntzintm=" height="90" width="100" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-a-slama-012811258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-a-slama-012811258" height="60" width="85" /></a>
+<a href="https://fb.com/https://www.facebook.com/mo.a.s.m.305?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mo.a.s.m.305?mibextid=zbwkwl" height="60" width="85" /></a>
+<a href="https://instagram.com/https://instagram.com/mo_3.0.5?igshid=zddkntzintm=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/mo_3.0.5?igshid=zddkntzintm=" height="60" width="85" /></a>
 </p>
 <hr>
 <br>
