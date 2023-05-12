@@ -21,8 +21,8 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-a-slama-012811258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-a-slama-012811258" height="60" width="85" /></a>
-<a href="https://fb.com/https://www.facebook.com/mo.a.s.m.305?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mo.a.s.m.305?mibextid=zbwkwl" height="60" width="85" /></a>
-<a href="https://instagram.com/https://instagram.com/mo_3.0.5?igshid=zddkntzintm=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/mo_3.0.5?igshid=zddkntzintm=" height="60" width="85" /></a>
+<a href="https://fb.com/https://www.facebook.com/mo.a.s.m.305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mo.a.s.m.305?mibextid=zbwkwl" height="60" width="85" /></a>
+<a href="https://instagram.com/https://instagram.com/mo_3.0.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/mo_3.0.5?igshid=zddkntzintm=" height="60" width="85" /></a>
 </p>
 <hr>
 <h3 align="center">Languages and Tools:</h3><br>
