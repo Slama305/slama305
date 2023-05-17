@@ -5,7 +5,7 @@
 	  
 ## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
 
-<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
+<img align="right" src="https://www.freecoursesandbooks.net/wp-content/uploads/2022/03/18a4949fc9c8067172d3b96e302e7097.gif" width=30%>
 
 <br><br>	  
 - I am a Studient at [*`Faculty of Computers & Informatics`*](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [*`Suez Canal University`*](http://suez.edu.eg/ar/). 
@@ -42,7 +42,6 @@
 </body>
 
 #
-
 ---
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Stats
@@ -92,10 +91,12 @@
 
 ----
   
-  </div>
-	<hr>
-	<p align="center">
-  <img  src="https://thumbs.gfycat.com/RespectfulDeterminedBrownbutterfly-size_restricted.gif" align="center" alt="GitHub Readme Stats" />
+  </details>
+  
+	
+<hr>
+<p align="center">
+  <img  src="https://phoneky.co.uk/thumbs/screensavers/down/anime/naruto-vs-_VJYEPqKe.gif" align="center" alt="GitHub Readme Stats" />
  
  
 	
