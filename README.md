@@ -88,7 +88,47 @@
 <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
 
 ----
-  
+  <div>
+  <p align="center">
+	<a href="https://github.com/Slama305/FrontEnd_SummerTrainig">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=slama305&repo=FrontEnd_SummerTrainig&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/Slama305/slama305">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=slama305&repo=slama305&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	  <a href="https://github.com/Slama305/Projects_FrontEnd">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=slama305&repo=Projects_FrontEnd&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	  <a href="https://github.com/Slama305/my_templet">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=slama305&repo=my_templet&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	   <a href="https://github.com/Slama305/Linear_programing_problem">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=slama305&repo=Linear_programing_problem&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+      <a href="https://github.com/Slama305/System_analysis">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=slama305&repo=System_analysis&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+      <a href="https://github.com/Slama305/Project_File_Processing">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=slama305&repo=Project_File_Processing&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+      <a href="https://github.com/Slama305/problem_solving_cpp">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=slama305&repo=problem_solving_cpp&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+      <a href="https://github.com/Slama305/file_processing_byPython">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=slama305&repo=file_processing_byPython&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+       <a href="https://github.com/Slama305/presntetion_Bio_computer">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=slama305&repo=presntetion_Bio_computer&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+       <a href="https://github.com/Slama305/data-structure">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=slama305&repo=data-structure&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+         <a href="https://github.com/Slama305/file_processing">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=slama305&repo=file_processing&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+  </p>
+</div>
+
   </details>
   
 	
