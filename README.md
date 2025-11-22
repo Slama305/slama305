@@ -8,10 +8,10 @@
 <img align="right" src="https://www.freecoursesandbooks.net/wp-content/uploads/2022/03/18a4949fc9c8067172d3b96e302e7097.gif" width=30%>
 
 <br><br>	  
-- I am a Studient at [*`Faculty of Computers & Informatics`*](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [*`Suez Canal University`*](http://suez.edu.eg/ar/). 
-- 👨‍💻I am a competitive programmer at [*`codeforces`*](https://codeforces.com/profile/Slamaa)
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
-- 📫 How to reach me **`salmaabo341@gmail.com`**
+
+🔭 I’m currently working on:<br>Building my skills in web development, both Frontend and Backend with .NET. I previously worked with Node.js before switching to .NET because I liked the structure and problem-solving style more.<br><br>🤝 I’m looking to collaborate on:<br>Practical web projects (React / .NET) and small systems that involve real data or simple backend logic.<br><br>🧩 I’m looking for help with:<br>Improving backend architecture in .NET and gaining more experience in building complete full-stack applications.<br><br>🌱 I’m currently learning:<br>Modern frontend tools, advanced JavaScript concepts, and backend development using ASP.NET Core.<br><br>💬 Ask me about:<br>Web development basics, .NET backend, SQL queries, Git issues, or general project structure.<br><br>⚡ Fun fact:<br>I worked as an HR, I’m a software engineer, and I’m a graduate of the Faculty of Computers and Information.
+<br><br>👨‍💻I am a competitive programmer at [*`codeforces`*](https://codeforces.com/profile/Slamaa)
+<br><br>📫 How to reach me **`salmaabo341@gmail.com`**
 <br><br><br><br>
 	  
  #
@@ -28,21 +28,76 @@
 	<a href="https://www.linkedin.com/in/mohamed-a-slama-012811258"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/mo.a.s.m.305"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
 	<a href="https://instagram.com/mo_3.0.5"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>		
+
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
+## <h3 align="center">💻 Programming Languages</h3>
+<p align="center" >
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/AssemblyScript-000000?style=for-the-badge&logo=assemblyscript&logoColor=white"/>
 </p>
 
-	
-	
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
-	
-### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width=5%> Programming languages
+## <h3 align="center">⚙️ Frameworks & Libraries</h3>
+<p align="center" class="badge-container">
+  <img src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SASS-ff69b4?style=for-the-badge&logo=SASS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Chart.js-F5788D?style=for-the-badge&logo=chart.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Context%20API-000?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+</p>
 
-<p align="center"> 
-  &emsp; 
-<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="80" height="80"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="80" height="80"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="80" height="80"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"/> </a> </p>
-</body>
+## <h3 align="center">🗄️ Databases</h3>
+<p align="center" class="badge-container">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase"/>
+</p>
 
-#
----
+## <h3 align="center">☁️ Cloud & Deployment</h3>
+<p align="center" class="badge-container">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</p>
+
+## <h3 align="center">🔧 Tools & Platforms</h3>
+<p align="center" class="badge-container">
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prezi-000?style=for-the-badge&logo=Prezi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=black"/>
+</p>
+
+
+## <h3 align="center">🤖 IoT & Embedded Systems</h3>
+<p align="center" class="badge-container">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sensors-FFCC00?style=for-the-badge&logoColor=black"/>
+  <img src="https://img.shields.io/badge/IoT%20Systems-0078D4?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MPU6050-005C99?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GPS%20Modules-1E90FF?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fire%20Sensors-D9534F?style=for-the-badge&logoColor=white"/>
+</p>
+ 
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Stats
 
@@ -76,13 +131,12 @@
  
 </details>
 
-<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
-
-----
+<details><summary> <h3> :trophy: 🔝 Top Contributed Repo</h3></summary>
+### 
 	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=slama305&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="slama305" /></a> </p>
+![](https://github-contributor-stats.vercel.app/api?username=Slama305&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-	
+
 </details>
 	
 <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
@@ -136,5 +190,3 @@
 <p align="center">
   <img  src="https://phoneky.co.uk/thumbs/screensavers/down/anime/naruto-vs-_VJYEPqKe.gif" align="center" alt="GitHub Readme Stats" />
  
- 
-	
