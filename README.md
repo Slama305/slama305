@@ -132,9 +132,9 @@
 </details>
 
 <details><summary> <h3> :trophy: 🔝 Top Contributed Repo</h3></summary>
-### 
+
 	
-![](https://github-contributor-stats.vercel.app/api?username=Slama305&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Slama305&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 
 </details>
